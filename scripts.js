@@ -28,7 +28,7 @@ function setSlider() {
 
     indicator.querySelector('.number').innerHTML = '0' + (active + 1)
 
-    // Trocar cor de fundo sa section
+    // Trocar cor de fundo da section
 
     document.querySelector('section').style.backgroundImage = backgrounds[active]
 }
