@@ -65,6 +65,7 @@ FP-SELLECTION/
 ├── style.css           # Estilos e responsividade
 ├── scripts.js          # Lógica e interatividade
 ├── README.md           # Documentação
+├── LICENSE             # License do projeto
 └── assets/             # Recursos visuais
     ├── logo.svg        # Logo da aplicação
     ├── porsche.png     # Imagem do Porsche
